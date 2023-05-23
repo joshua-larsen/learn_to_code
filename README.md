@@ -1,6 +1,10 @@
 # Learn to Code
 Various resources for learning to code
 
+# Challenges
+## [100 Days of Code](https://www.100daysofcode.com)
+## [Code Wars](www.codewars.com/r/sdr0pQ)
+
 # Books
 ## [Automate the Boring Stuff by Al Sweigart](https://automatetheboringstuff.com)
 ## [No Starch Press](https://nostarch.com/catalog/python)
