@@ -10,6 +10,7 @@ Various resources for learning to code
 ## [No Starch Press](https://nostarch.com/catalog/python)
 
 # Free Beginner Courses
+## [The Odin Project](https://www.theodinproject.com/)
 ## [Freecodecamp](https://www.freecodecamp.org)
 ## [Twilio Quest RPG](https://www.twilio.com/quest)
 ## [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main)
