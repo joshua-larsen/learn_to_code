@@ -27,12 +27,13 @@ Various resources for learning to code
 * ### [College Algebra with Python Certification](https://www.freecodecamp.org/learn/college-algebra/)
 * ### [Foundational C# with Microsoft Certification](https://www.freecodecamp.org/learn/foundational-csharp/)
 ## [Twilio Quest RPG](https://www.twilio.com/quest)
-## [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main)
-## [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
-## [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
-## [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-## [AI for Beginners](https://github.com/microsoft/ai-for-beginners)
-## [XR for Beginners](https://github.com/microsoft/xr-development-for-beginners)
+## Microsoft Learn
+* ### [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main)
+* ### [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
+* ### [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
+* ### [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+* ### [AI for Beginners](https://github.com/microsoft/ai-for-beginners)
+* ### [XR for Beginners](https://github.com/microsoft/xr-development-for-beginners)
 ## [CS50](https://cs50.harvard.edu/college/2023/fall/)
 
 # Websites
