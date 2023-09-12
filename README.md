@@ -13,9 +13,8 @@ Various resources for learning to code
 ## [Apple IOS App Development](https://developer.apple.com/tutorials/app-dev-training)
 ## [The Odin Project](https://www.theodinproject.com/)
 ## [Freecodecamp](https://www.freecodecamp.org)
-### [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-### 
-###
+* ### [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+* ### [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ## [Twilio Quest RPG](https://www.twilio.com/quest)
 ## [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main)
