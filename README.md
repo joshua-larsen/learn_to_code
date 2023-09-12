@@ -36,10 +36,6 @@ Various resources for learning to code
 * ### [XR for Beginners](https://github.com/microsoft/xr-development-for-beginners)
 ## [CS50](https://cs50.harvard.edu/college/2023/fall/)
 
-# Websites
-
-# Communities
-
 # Projects
 ## [Build a Personal Website or Portfolio using Quarto](https://quarto.org)
 
